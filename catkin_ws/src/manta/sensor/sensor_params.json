@@ -1,0 +1,25 @@
+{    
+    "params_cam":
+    {
+        "ENGINE": "UNITY",
+        "TYPE": "JPG",
+        "WIDTH": 640,
+        "HEIGHT": 480,
+        "FOV": 90,
+        "X": 2.70,
+        "Y": 0,
+        "Z": 1.05,
+        "YAW": 0,
+        "PITCH": 0.0,
+        "ROLL": 0
+    },
+    "params_lidar":
+    {
+        "X": 1,
+        "Y": 0,
+        "Z": 1.45,
+        "YAW": 0.0,
+        "PITCH": 0.0,
+        "ROLL": 0
+    }
+}
