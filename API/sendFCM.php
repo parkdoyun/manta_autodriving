@@ -7,7 +7,7 @@ include 'mysql_connect.php';
 
 if($_SERVER['REQUEST_METHOD'] == 'POST')
 {
-	define('API_ACCESS_KEY', 'AAAAiN7_cXw:APA91bGVzv_Jz9m2rePvbYsex_XCwCTPYwXikep5ZejLnNvt4K4A837Xp0a-uiHZvWIpv5mI4ZvQoSPnxQMACWtGBIjt7SgkjxSLL9w0P6aAue7JAlc_YFeRumKd3VdR-hektmeUJNXy');
+	define('API_ACCESS_KEY', 'ACCESS_KEY');
 
 	$fcmUrl = 'https://fcm.googleapis.com/fcm/send';
 
